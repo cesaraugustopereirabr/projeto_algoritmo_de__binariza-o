@@ -1,0 +1,1 @@
+# projeto_algoritmo_de__binariza-o
